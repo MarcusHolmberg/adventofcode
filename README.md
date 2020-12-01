@@ -1,6 +1,6 @@
 # adventofcode2020
 
-My solutions to advent of code 2019, please do not use these solutions as a merit for my future employements, my performance is based on how much I get paid, and this was done for free.
+My solutions to advent of code 2020, please do not use these solutions as a merit for my future employements, my performance is based on how much I get paid, and this was done for free.
 
 How to run:
 
